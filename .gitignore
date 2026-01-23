@@ -11,3 +11,5 @@ build/
 .settings/
 .project
 **.cxx
+.history/
+.lh/
